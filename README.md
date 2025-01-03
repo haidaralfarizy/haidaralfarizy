@@ -8,5 +8,6 @@ I'm a high schooler at SMA Labschool Kebayoran, who is interested in technology,
 - CSS (React)
 
 ## 🪪 Socials
+Contact me through haidarlatiefalfarizy@gmail.com
 - Instagram - @haidarralfarizy
 - LinkedIn - Haidar Latief Alfarizy
