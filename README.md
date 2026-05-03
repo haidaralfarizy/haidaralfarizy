@@ -5,9 +5,10 @@ I'm a high schooler at SMA Labschool Kebayoran, who is interested in technology,
 - Python
 - Java
 - HTML
-- CSS (React)
+- CSS
+- JavaScript
 
 ## 🪪 Socials
-Contact me through haidarlatiefalfarizy@gmail.com
+Contact me through: haidarlatiefalfarizy@gmail.com
 - Instagram - @haidarralfarizy
 - LinkedIn - Haidar Latief Alfarizy
